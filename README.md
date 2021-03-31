@@ -6,4 +6,4 @@ Form with labels that jump up with a wave effect on focus.
 
 [See it in action!](https://master.d345vvhad5t0y5.amplifyapp.com/)
 
-![alt text](https://github.com/devjpsmith/expanding-cards/blob/master/screenshot.png?raw=true)
+![alt text](https://github.com/devjpsmith/form-wave-animation/blob/master/screenshot.png?raw=true)
